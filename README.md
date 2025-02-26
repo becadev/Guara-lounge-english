@@ -1,14 +1,13 @@
 ## 📂 ABOUT PROJECT:
-> This project was development to the discipline Web Design, 
-Este projeto foi desenvolvido para a disciplina de Web Design, durante o primeiro semestre do meu curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS). Ele tem como objetivo criar um site para a empresa GuaraLounge, localizada em Parnamirim, Rio Grande do Norte.
+> This project was developed for the Web Design discipline, during the first semester of my Technology in Systems Analysis and Development (TADS) course. Its objective is to create a website for the company GuaraLounge, located in Parnamirim, Rio Grande do Norte, Brazil.
 
-> Sendo o meu primeiro projeto, ele pode não atingir, de imediato, o nível de excelência que desejo, mas estou comprometido em aprimorá-lo ao longo do tempo. Meu objetivo futuro é utilizar este projeto como base para o desenvolvimento de um aplicativo de compras para a GuaraLounge, oferecendo assim uma solução mais completa e integrada para a empresa.
+> Being my first project, it may not immediately reach the level of excellence I desire, but I am committed to improving it over time. My future objective is to use this project as a base for developing a shopping app for GuaraLounge, thus offering a more complete and integrated solution for the company.
 
-
-
-### 💻 TOOLS USED:
+### 💻 USED TECHNOLOGIES:
 • HTML5; <br>
 • CSS; <br>
-• Javascript. <br>
+• Javascript; <br>
 
-#### Link for see the site: https://becadev.github.io/Projeto-Guara-LOunge/index.html
+
+#### Link to view the website in portuguese: https://becadev.github.io/Projeto-Guara-LOunge/index.html
+#### Link to view the website in english: https://becadev.github.io/Guara-lounge-english/index.html
